@@ -8,7 +8,7 @@ google_analytics:
 theme: jekyll-theme-midnight
 author: Giorgio Gambosi
 author_email: giorgio.gambosi@uniroma2.it
-baseurl: ml1718
+baseurl: /ml1718
 #markdown: rdiscount
 permalink: pretty
 
