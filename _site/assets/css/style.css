@@ -283,7 +283,7 @@ body > header h1 > a { text-decoration: none; }
 
 body > header h4 { margin-top: -10px; }
 
-h2 { width: 100%; min-width: 840px; color: #FF4500; }
+h2 { width: 100%; min-width: 840px; color: #FF733A; }
 
 h2, h3, h4 { width: 100%; min-width: 840px; }
 
@@ -333,6 +333,12 @@ section address { margin-left: 15px; }
 
 .more { margin-left: 80%; }
 
-.filelink { color: #7FFFD4; }
+.filelink { color: #39CCCC; }
 
 .filelink:hover { color: #696969; }
+
+.codelink { color: #F012BE; }
+
+.codelink:hover { color: #696969; }
+
+.alert { color: #4682B4; }

@@ -29,7 +29,7 @@ body>header h4 {
 h2 {
     width: 100%;
     min-width: 840px;
-    color: #FF4500;
+    color: #FF733A;
 }
 
 h2,h3,h4 {
@@ -160,9 +160,23 @@ section address {
 }
 
 .filelink {
-color:#7FFFD4;
+color:#39CCCC;
 }
 
 .filelink:hover {
 color:#696969;
 }
+
+.codelink {
+color:#F012BE;
+}
+
+.codelink:hover {
+color:#696969;
+}
+
+.alert {
+color:#4682B4;
+}
+
+
