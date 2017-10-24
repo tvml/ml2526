@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lucidi degli argomenti trattati
+## Dataset considerati
 
 1. [`Introduzione.`{:.filelink}]({{ site.baseurl }}{%link slides/introduction.pdf %}) Sommario degli obiettivi e dei contenuti del corso
 

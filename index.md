@@ -2,6 +2,8 @@
 layout: default
 ---
 
+L'insegnamento di Machine Learning è offerto all'interno del Corso di Laurea Magistrale in Informatica, presso l'Università di Roma Tor Vergata.
+
 ## Welcome to another page
 
 _yay_

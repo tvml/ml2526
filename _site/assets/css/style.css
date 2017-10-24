@@ -303,11 +303,13 @@ a:hover { color: #696969; }
 
 main { width: 80%; min-width: 600px; margin-left: 150px; display: block; }
 
-nav { float: left; width: 130px; min-width: 130px; margin-right: 20px; }
+nav { float: left; width: 150px; min-width: 150px; margin-right: 20px; margin-left: -30px; vertical-align: baseline; }
 
 nav a:hover { color: #696969; }
 
 nav li { margin-left: -25px; list-style: none; }
+
+.nav-text { vertical-align: middle; }
 
 footer { clear: both; width: 100%; }
 
@@ -340,5 +342,9 @@ section address { margin-left: 15px; }
 .codelink { color: #F012BE; }
 
 .codelink:hover { color: #696969; }
+
+.datalink { color: #7Dc190; }
+
+.datalink:hover { color: #696969; }
 
 .alert { color: #4682B4; }

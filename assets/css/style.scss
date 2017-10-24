@@ -84,9 +84,11 @@ main {
 
 nav {
 	float: left;
-	width: 130px;
-	min-width: 130px;
+	width: 150px;
+	min-width: 150px;
 	margin-right: 20px;
+	margin-left: -30px;
+	vertical-align:baseline;
 }
 
 
@@ -98,6 +100,10 @@ nav a:hover {
 nav li {
     margin-left: -25px;
     list-style: none;
+}
+
+.nav-text {
+    vertical-align:middle;
 }
       
 
@@ -172,6 +178,14 @@ color:#F012BE;
 }
 
 .codelink:hover {
+color:#696969;
+}
+
+.datalink {
+color:#7Dc190;
+}
+
+.datalink:hover {
 color:#696969;
 }
 
