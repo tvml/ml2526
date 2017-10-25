@@ -4,9 +4,18 @@ layout: default
 
 ## Lezioni svolte
 
-|Data   |Argomenti trattati             |
-|-------|--------------------|
-|3-3-2017|Introduzione|
+
+
+<posts>
+        <table>
+            {% for post in site.categories.lezioni %}
+            <tr>
+                <td width="15%">{{post.data}}</td>  
+                <td>{{ post.args }}</td>
+            </tr>
+    	{% endfor %}
+        </table>
+</posts>
 
 
 

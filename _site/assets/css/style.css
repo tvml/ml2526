@@ -287,6 +287,8 @@ body > header h4 { margin-top: -10px; }
 
 h2 { width: 100%; min-width: 840px; color: #FF733A; }
 
+h4 { width: 100%; min-width: 840px; color: #e4cbff; }
+
 h2, h3, h4 { width: 100%; min-width: 840px; }
 
 hr { margin-left: 0; padding-left: 0; width: 100%; min-width: 840px; }
@@ -337,11 +339,11 @@ section address { margin-left: 15px; }
 
 .more { margin-left: 80%; }
 
-.filelink { color: #39CCCC; }
+.filelink { color: #ffb07c; }
 
 .filelink:hover { color: #696969; }
 
-.codelink { color: #F012BE; }
+.codelink { color: #6488ea; }
 
 .codelink:hover { color: #696969; }
 

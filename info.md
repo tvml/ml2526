@@ -4,7 +4,7 @@ layout: default
 
 ## Informazioni
 
-### Dove e quando
+#### Dove e quando
 Le lezioni del corso si svolgono:
 * il ... dalle ore ... alle ... in aula ...
 * il ... dalle ore ... alle ... in aula ...
