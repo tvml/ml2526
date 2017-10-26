@@ -343,14 +343,16 @@ section address { margin-left: 15px; }
 
 .filelink:hover { color: #696969; }
 
-.codelink { color: #6488ea; }
+.codelink { color: #01889f; }
 
 .codelink:hover { color: #696969; }
 
-.datalink { color: #7Dc190; }
+.datalink { color: #82cbb2; }
 
 .datalink:hover { color: #696969; }
 
-.alert { color: #4682B4; }
+.alert { color: #7Dc190; }
 
 .center { text-align: center; }
+
+.date { color: #65ab7c; }
