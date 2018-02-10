@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Programma
-* Richiami statistica bayesiana e apprendimento bayesiano `10 ore`{:.alert}
+* Richiami statistica bayesiana e apprendimento bayesiano <!--`10 ore`-->{:.alert}
 * Modelli grafici e reti bayesiane `10 ore`{:.alert}
 * Supervised learning `30 ore`{:.alert}
 	* Regressione (lineare e non) e regolarizzazione
