@@ -2,26 +2,28 @@
 layout: default
 ---
 ## Programma
-* Richiami statistica bayesiana e apprendimento bayesiano <!--`10 ore`-->{:.alert}
-* Modelli grafici e reti bayesiane <!--`10 ore`-->{:.alert}
-* Supervised learning <!--`30 ore`-->{:.alert}
+Programma di massima, potrà essere modificato durante il corso.
+* Richiami di statistica bayesiana e apprendimento bayesiano <!--`10 ore`-->
+* Modelli grafici e reti bayesiane <!--`10 ore`-->
+* Supervised learning <!--`30 ore`-->
 	* Regressione (lineare e non) e regolarizzazione
 	* Feature selection, cenni
-	* Classificazione lineare: LDA di Fisher, etc.
+	* Classificazione lineare: LDA di Fisher, perceptron
 	* Naive bayes
 	* Modelli generativi per la classificazione
 	* Modelli discriminativi per la classificazione, regressione logistica
-	* SVM
+	* Support vector machines, kernel
 	* Reti neurali “tradizionali”
 	* Modelli non parametrici: knn e Parzen windows
 	* Ensemble models: bagging, boosting, alberi di decisione e random forests
-* Unsupervised learning <!--`20 ore`-->{:.alert}
+* Unsupervised learning <!--`20 ore`-->
 	* Clustering: k-means, mixture models, processi di Dirichlet (cenni), spectral clustering
-	* Algoritmo EM
-	* Dimensionality reduction: PCA, ProbPCA, FA, Manifold
-	* Modelli temporali: HMM
-* Testo, pair matrices e recommenders <!--`10 ore`-->{:.alert}
-	* SVD e LSA
-	* Modelli di testo (coppie): PLSA, LDA, metodi MCMC
-* Deep learning <!--`10 ore`-->{:.alert}
+	* Algoritmo di expectation maximization
+	* Dimensionality reduction: Principal component analysis, Probabilistic principal component analysis, Factor analysis<!--, Manifold-->
+	* Modelli temporali: Hidden Markov models
+* Testo, pair matrices e recommenders <!--`10 ore`-->
+	* Latent semantic analysis, Non negative matrix factorization
+	* Modelli di testo (coppie): Probabilistic latent semantic analysis, Latent Dirichlet allocation, topic models
+* Metodi montecarlo per l'inferenza approssimata (cenni)
+* Deep learning (cenni) <!--`10 ore`-->
 
