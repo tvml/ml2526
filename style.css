@@ -20,7 +20,27 @@ body>header h4 {
     margin-top: -10px;
 }
 
-h1,h2,h3,h4 {
+h2 {
+    width: 100%;
+    min-width: 840px;
+    color: #FF733A;
+}
+
+h3 {
+    width: 100%;
+    min-width: 840px;
+    color: #3f7c98;
+}
+
+h4 {
+    width: 100%;
+    min-width: 840px;
+    color: #d3494e;
+}
+
+
+
+h2,h3,h4 {
     width: 100%;
     min-width: 840px;
 }
