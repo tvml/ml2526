@@ -4,6 +4,8 @@ layout: default
 
 ## Lucidi
 
+Raccolta di lucidi utilizzati nei precedenti a.a., inseriti a scopo indicativo. 
+
 1. [`Introduzione al corso.`{:.filelink}]({{ site.baseurl }}{%link slides/introduction.pdf %}) Sommario degli obiettivi e dei contenuti del corso
 
 1. [`Richiami di probabilita' e statistica.`{:.filelink}]({{ site.baseurl }}{%link slides/probstat.pdf %}) Riassunto dei concetti fondamentali del calcolo delle probablità e della statistica utili nell'ambito del corso
