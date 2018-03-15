@@ -46,7 +46,7 @@ def scatter_matrix(df):
     plt.figlegend(handles, classes, 'upper center', ncol=nclasses, labelspacing=0. , fontsize=12)
     plt.show()
 
-data_folder = '../../data/'
+data_folder = '.'
 
 df = pd.read_csv(data_folder+'iris.csv', delimiter=';')
 scatter_matrix(df)
