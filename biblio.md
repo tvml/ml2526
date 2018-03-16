@@ -23,6 +23,19 @@ Testi di ML liberamente disponibili su Internet
 * I. Goodfellow, Y: Bengio, A. Courville. [Deep Learning](http://www.deeplearningbook.org/)
 
 
+### Documentazione tecnica
+Manuali per l'utilizzo di strumenti e librerie software
+
+* Documentazione distribuzione [Anaconda](https://conda.io/docs/user-guide/index.html)
+* Documentazione editor IDE [Spyder](https://pythonhosted.org/spyder/)
+* Documentazione ambiente [Jupyter/IPython Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
+* Documentazione dei package [Scipy e Numpy](https://docs.scipy.org/doc/)
+* Documentazione package [Matplotlib](https://matplotlib.org/users/index.html)
+* Documentazione package [Pandas](https://pandas.pydata.org)
+* [`Cheat sheet`{:.filelink}]({{ site.baseurl }}{%link varie/python_cheat_sheet.pdf %}) riassuntivi Python 
+
+
+
 ### Testi non tecnici
 Per chi fosse interessato a testi a carattere non tecnico, inerenti le tematiche del corso, si suggeriscono i titoli seguenti:
 
