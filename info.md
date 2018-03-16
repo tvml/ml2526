@@ -9,11 +9,9 @@ layout: default
 
 Le lezioni del corso si svolgono:
 
-* il Lunedì dalle ore 16.30 alle 18.30 in aula 7
+* il Lunedì dalle ore 16.30 alle 19.00 in aula 7
 
-* il Mercoledì dalle ore 14.00 alle 16.00 in aula 7
-
-* il Giovedì dalle ore 14.30 alle 16.30 in aula 7
+* il Giovedì dalle ore 14.00 alle 16.30 in aula 7
 
 #### Ricevimento
 
