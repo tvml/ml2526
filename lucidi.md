@@ -12,9 +12,9 @@ Raccolta di lucidi utilizzati nei precedenti a.a., inseriti a scopo indicativo.
 
 1. [`Statistica bayesiana.`{:.filelink}]({{ site.baseurl }}{%link slides/probstat.pdf %}) Introduzione ai concetti fondamentali della statistica bayesiana
 
-1. [`Teoria dell'informazione.`{:.filelink}]({{ site.baseurl }}{%link slides/information_theory.pdf %}) Cenni di teoria dell'informazione
+1. [`Teoria dell'informazione.`{:.filelink}]({{ site.baseurl }}{%link slides/information theory.pdf %}) Cenni di teoria dell'informazione
 
-1. [`Selezione di modelli.`{:.filelink}]({{ site.baseurl }}{%link slides/model_inference.pdf %}) Elementi di inferenza e selezione di modelli
+1. [`Selezione di modelli.`{:.filelink}]({{ site.baseurl }}{%link slides/model inference.pdf %}) Elementi di inferenza e selezione di modelli
 
 1. [`Regressione.`{:.filelink}]({{ site.baseurl }}{%link slides/regression.pdf %}) Regressione lineare e non lineare
 
