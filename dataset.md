@@ -9,6 +9,7 @@ layout: default
 1. [`Iris.`{:.datalink}]({{ site.baseurl }}{%link dataset/iris.csv %}) Classificazione iris per caratteristiche di petalo e sepalo.
 1. [`Mammals.`{:.datalink}]({{ site.baseurl }}{%link dataset/mammals.csv %}) Peso e dimensione cervello in mammiferi.
 1. [`Cars.`{:.datalink}]({{ site.baseurl }}{%link dataset/cars.csv %}) Velocità e spazio di frenata.
+1. [`Testo.`{:.datalink}]({{ site.baseurl }}{%link dataset/XwindowsDocData.mat %}) Occorrenze di termini in documenti.
 
 
 
