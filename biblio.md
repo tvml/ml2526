@@ -20,7 +20,7 @@ Testi di ML liberamente disponibili su Internet
 
 * T. Hastie, R. Tibshirani, J. Friedman. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
-* I. Goodfellow, Y: Bengio, A. Courville. [Deep Learning](http://www.deeplearningbook.org/)
+* I. Goodfellow, Y. Bengio, A. Courville. [Deep Learning](http://www.deeplearningbook.org/)
 
 
 ### Documentazione tecnica
