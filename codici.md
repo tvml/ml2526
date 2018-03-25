@@ -11,6 +11,7 @@ layout: default
 1. [`BetaBernoulli.`{:.codelink}]({{ site.baseurl }}{%link codici/BetaBernoulli.ipynb %}) Esempio di inferenza bayesiana di probabilità p di una Bernoulli (notebook)
 1. [`ModelSelection.`{:.codelink}]({{ site.baseurl }}{%link codici/model_selection.ipynb %}) Esempio di model selection con test set e con information criteria (notebook)
 1. [`NaiveBayes.`{:.codelink}]({{ site.baseurl }}{%link codici/naivebayes.ipynb %}) Esempio di classificatore naive bayes con modelli di linguaggio e selezione termini più significativi (notebook)
+1. [`linreg_samples.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_samples.ipynb %}) Regressione lineare bayesiana (notebook)
 
 
 
