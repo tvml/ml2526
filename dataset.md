@@ -10,6 +10,7 @@ layout: default
 1. [`Mammals.`{:.datalink}]({{ site.baseurl }}{%link dataset/mammals.csv %}) Peso e dimensione cervello in mammiferi.
 1. [`Cars.`{:.datalink}]({{ site.baseurl }}{%link dataset/cars.csv %}) Velocità e spazio di frenata.
 1. [`Testo.`{:.datalink}]({{ site.baseurl }}{%link dataset/XwindowsDocData.mat %}) Occorrenze di termini in documenti.
+1. [`Newsgroups.`{:.datalink}]({{ site.baseurl }}{%link dataset/20news_w100.mat %}) Occorrenze di termini in documenti da newsgroups.
 
 
 
