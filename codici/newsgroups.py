@@ -28,7 +28,7 @@ colors = ['#008fd5', '#fc4f30', '#e5ae38', '#6d904f', '#8b8b8b', '#810f7c', '#13
 
 pal = mpl.colors.ListedColormap(['#8b8b8b', '#be0119'], name='from_list', N=None)
 
-data = io.loadmat('./data/20news_w100')
+data = io.loadmat('20news_w100')
 documents = data['documents']
 documents = documents.toarray().T
 newsgroups = data['newsgroups'][0]
