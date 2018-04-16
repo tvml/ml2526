@@ -11,6 +11,8 @@ layout: default
 1. [`Cars.`{:.datalink}]({{ site.baseurl }}{%link dataset/cars.csv %}) Velocità e spazio di frenata.
 1. [`Testo.`{:.datalink}]({{ site.baseurl }}{%link dataset/XwindowsDocData.mat %}) Occorrenze di termini in documenti.
 1. [`Newsgroups.`{:.datalink}]({{ site.baseurl }}{%link dataset/20news_w100.mat %}) Occorrenze di termini in documenti da newsgroups.
+1. [`Ex2data.`{:.datalink}]({{ site.baseurl }}{%link dataset/ex2data1.txt %}) Dataset per classificazione binaria.
+1. [`Housingdata.`{:.datalink}]({{ site.baseurl }}{%link dataset/housing.data.txt %}) Dataset abitazioni Boston.
 
 
 
