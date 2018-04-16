@@ -20,5 +20,6 @@ layout: default
 1. [`PCA.`{:.codelink}]({{ site.baseurl }}{%link codici/pca.ipynb %}) Riduzione di dimensionalità mediante PCA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/pca.ipynb)
 1. [`regression.`{:.codelink}]({{ site.baseurl }}{%link codici/regression.ipynb %}) Esempi di regressione mediante scikit-learn (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/regression.ipynb)
 1. [`gda.`{:.codelink}]({{ site.baseurl }}{%link codici/gda.ipynb %}) Gaussian discriminant analysis: ipotesi di stessa matrice di covarianza (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/gda.ipynb)
+1. [`gdaquad.`{:.codelink}]({{ site.baseurl }}{%link codici/gdaquad.ipynb %}) Gaussian discriminant analysis: ipotesi di diversa matrice di covarianza (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/gdaquad.ipynb)
 
 
