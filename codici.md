@@ -15,6 +15,7 @@ layout: default
 1. [`linreg_predict.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_predict.ipynb %}) Predizione in regressione lineare bayesiana (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/linregr_predict.ipynb)
 1. [`equiv_kernel.`{:.codelink}]({{ site.baseurl }}{%link codici/equiv_kernel.ipynb %}) Calcolo e visualizzazione del kernel equivalente (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/equiv_kernel.ipynb)
 1. [`newsgroups.`{:.codelink}]({{ site.baseurl }}{%link codici/newsgroups.py %}) Visualizzazione contenuto documenti da newsgroups (script)
+1. [`LDA.`{:.codelink}]({{ site.baseurl }}{%link codici/lda.ipynb %}) Classificazione mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/lda.ipynb)
 
 
 
