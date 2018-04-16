@@ -12,7 +12,7 @@ baseurl: /ml1718
 #markdown: rdiscount
 permalink: pretty
 timezone: Europe/Rome
-future: B00L
+future: true
 
 category_dir: /
 # How many articles do you wish to appear on the front page:
