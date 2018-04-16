@@ -11,6 +11,8 @@ author_email: giorgio.gambosi@uniroma2.it
 baseurl: /ml1718
 #markdown: rdiscount
 permalink: pretty
+timezone: Europe/Rome
+future: B00L
 
 category_dir: /
 # How many articles do you wish to appear on the front page:
