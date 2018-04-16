@@ -16,7 +16,7 @@ layout: default
 1. [`equiv_kernel.`{:.codelink}]({{ site.baseurl }}{%link codici/equiv_kernel.ipynb %}) Calcolo e visualizzazione del kernel equivalente (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/equiv_kernel.ipynb)
 1. [`newsgroups.`{:.codelink}]({{ site.baseurl }}{%link codici/newsgroups.py %}) Visualizzazione contenuto documenti da newsgroups (script)
 1. [`LDA.`{:.codelink}]({{ site.baseurl }}{%link codici/lda.ipynb %}) Classificazione mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/lda.ipynb)
-
+1. [`LDAdimred.`{:.codelink}]({{ site.baseurl }}{%link codici/lda_dimred.ipynb %}) Riduzione di dimensionalità mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/lda_dimred.ipynb)
 
 
 
