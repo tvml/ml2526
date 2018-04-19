@@ -24,5 +24,5 @@ layout: default
 1. [`gda-lin-sk-cv.`{:.codelink}]({{ site.baseurl }}{%link codici/gda-lin-sk-cv.ipynb %}) Gaussian discriminant analysis in scikit-learn: ipotesi di stessa matrice di covarianza (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/gda-lin-sk-cv.ipynb)
 1. [`gda-sk-cv.`{:.codelink}]({{ site.baseurl }}{%link codici/gda-sk-cv.ipynb %}) Gaussian discriminant analysis in scikit-learn: ipotesi di diversa matrice di covarianza (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/gda-sk-cv.ipynb)
 1. [`logreg.`{:.codelink}]({{ site.baseurl }}{%link codici/logreg.ipynb %}) Logistic regression con discesa del gradiente (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/logreg.ipynb)
-1. [`logregregbf.`{:.codelink}]({{ site.baseurl }}{%link codici/logregbf.ipynb %}) Logistic regression con discesa del gradiente, regolarizzazione, funzioni base (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/logregregbf.ipynb)
+1. [`logregregbf.`{:.codelink}]({{ site.baseurl }}{%link codici/logregregbf.ipynb %}) Logistic regression con discesa del gradiente, regolarizzazione, funzioni base (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/logregregbf.ipynb)
 
