@@ -28,5 +28,5 @@ layout: default
 1. [`knn.`{:.codelink}]({{ site.baseurl }}{%link codici/knn.ipynb %}) K-nearest neighbor (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/knn.ipynb)
 1. [`parzen.`{:.codelink}]({{ site.baseurl }}{%link codici/parzen.ipynb %}) Classificatore con Parzen windows (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/parzen.ipynb)
 1. [`titanic.`{:.codelink}]({{ site.baseurl }}{%link codici/titanic.ipynb %}) Classificazione dataset Titanic (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/titanic.ipynb)
-1. [`ensemble.`{:.codelink}]({{ site.baseurl }}{%link codici/ensemble.ipynb %}) Alberidi decione e classificatori ensemble (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/ensemble.ipynb)
+1. [`ensemble.`{:.codelink}]({{ site.baseurl }}{%link codici/ensemble.ipynb %}) Alberi di decisione e classificatori ensemble (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/ensemble.ipynb)
 
