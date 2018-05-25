@@ -31,4 +31,5 @@ layout: default
 1. [`ensemble_iris.`{:.codelink}]({{ site.baseurl }}{%link codici/ensemble_iris.ipynb %}) Alberi di decisione e classificatori ensemble su dataset iris (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/ensemble_iris.ipynb)
 1. [`ensemble.`{:.codelink}]({{ site.baseurl }}{%link codici/ensemble.ipynb %}) Alberi di decisione e classificatori ensemble (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/ensemble.ipynb)
 1. [`svm_xor.`{:.codelink}]({{ site.baseurl }}{%link codici/svm_xor.ipynb %}) Support vector machines applicate all'apprendimento di dataset da funzione XOR (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/svm_xor.ipynb)
+1. [`svm_eigenfaces.`{:.codelink}]({{ site.baseurl }}{%link codici/svm_eigenfaces.ipynb %}) Support vector machines e PCA applicate alla classificazione di volti (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/svm_eigenfaces.ipynb)
 
