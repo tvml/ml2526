@@ -12,8 +12,6 @@ Raccolta di lucidi utilizzati nei precedenti a.a., inseriti a scopo indicativo.
 
 1. [`Statistica bayesiana.`{:.filelink}]({{ site.baseurl }}{%link slides/probstat.pdf %}) Introduzione ai concetti fondamentali della statistica bayesiana
 
-1. [`Teoria dell'informazione.`{:.filelink}]({{ site.baseurl }}{%link slides/information theory.pdf %}) Cenni di teoria dell'informazione
-
 1. [`Selezione di modelli.`{:.filelink}]({{ site.baseurl }}{%link slides/model inference.pdf %}) Elementi di inferenza e selezione di modelli
 
 1. [`Regressione.`{:.filelink}]({{ site.baseurl }}{%link slides/regression.pdf %}) Regressione lineare e non lineare
@@ -42,13 +40,8 @@ Raccolta di lucidi utilizzati nei precedenti a.a., inseriti a scopo indicativo.
 
 1. [`Ensemble.`{:.filelink}]({{ site.baseurl }}{%link slides/ensemble.pdf %}) Metodi ensemble (bagging, boosting, random forest) per l'apprendimento
 
-1. [`HMM.`{:.filelink}]({{ site.baseurl }}{%link slides/hmm.pdf %}) Hidden Markov models
 
-1. [`Spectral clustering.`{:.filelink}]({{ site.baseurl }}{%link slides/spectral_clustering.pdf %}) Metodi spettrali per il clustering
-
-1. [`Moltiplicatori di Lagrange.`{:.filelink}]({{ site.baseurl }}{%link slides/lagrangian.pdf %}) Moltiplicatori di Lagrange e loro utilizzo
-
-1. [`Metodi montecarlo.`{:.filelink}]({{ site.baseurl }}{%link slides/montecarlo.pdf %}) Introduzione ai metodi montecarlo
+1. [`Co-occorrenze.`{:.filelink}]({{ site.baseurl }}{%link slides/cooccorrenze.pdf %}) Introduzione all'unsupervised learning su dati di co-occorrenza (LSA, PLSA, LDA)
 
 
 
