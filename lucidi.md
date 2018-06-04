@@ -40,7 +40,6 @@ Raccolta di lucidi utilizzati nei precedenti a.a., inseriti a scopo indicativo.
 
 1. [`Ensemble.`{:.filelink}]({{ site.baseurl }}{%link slides/ensemble.pdf %}) Metodi ensemble (bagging, boosting, random forest) per l'apprendimento
 
-
 1. [`Co-occorrenze.`{:.filelink}]({{ site.baseurl }}{%link slides/cooccorrenze.pdf %}) Introduzione all'unsupervised learning su dati di co-occorrenza (LSA, PLSA, LDA)
 
 

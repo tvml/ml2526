@@ -17,6 +17,7 @@ layout: default
 1. [`3classi train.`{:.datalink}]({{ site.baseurl }}{%link dataset/knnClassify3c.csv %}) Training set a 3 classi.
 1. [`3classi test.`{:.datalink}]({{ site.baseurl }}{%link dataset/knnClassify3c-test.csv %}) Test set a 3 classi.
 1. [`Titanic.`{:.datalink}]({{ site.baseurl }}{%link dataset/titanic.csv %}) Dataset Titanic.
+1. [`TestSet.`{:.datalink}]({{ site.baseurl }}{%link dataset/testSet.txt %}) Dataset per logistic regression.
 
 
 
