@@ -10,6 +10,6 @@ layout: default
 <!--1. [`Richiami di probabilita' e statistica.`{:.filelink}]({{ site.baseurl }}{%link slides/probstat.pdf %}) Riassunto dei concetti fondamentali del caclcolo delle probablità e della statistica utili nell'ambito del corso-->
 
 
-Prima versione delle[`note`{:.codelink}]({{ site.baseurl }}{%link notes/book.pdf %}) con capitoli di introduzione e sulla regressione.
+
 
 
