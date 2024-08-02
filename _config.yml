@@ -2,13 +2,13 @@ name: Machine learning @ Tor Vergata
 title: Machine learning
 subtitle: CdLM in Informatica - Universita' di Roma Tor Vergata
 description: Corso di Machine Learning, CdLM in Informatica - Universita' di Roma Tor Vergata
-aa: anno accademico 2017-2018
+aa: anno accademico 2024-2025
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
 author: Giorgio Gambosi
 author_email: giorgio.gambosi@uniroma2.it
-baseurl: /ml1718
+baseurl: /ml2425
 #markdown: rdiscount
 permalink: pretty
 timezone: Europe/Rome
