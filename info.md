@@ -9,9 +9,11 @@ layout: default
 
 Le lezioni del corso si svolgono:
 
-* il Lunedì dalle ore 16.30 alle 19.00 in aula 7
+* il Lunedì dalle ore 14.00 alle 15.30 in aula 13
 
-* il Giovedì dalle ore 14.00 alle 16.30 in aula 7
+* il Giovedì dalle ore 11.30 alle 13.00 in aula 5 PP2
+
+* il Venerdì dalle ore 11.30 alle 13.00 in aula 13
 
 #### Ricevimento
 
@@ -43,8 +45,8 @@ ogni singolo studente, incentrato sui contenuti del corso.
 
 #### Progetto
 
-Il progetto prevede la scrittura, utilizzando il linguaggio Python, di un
-programma che richiami e integri tra loro funzionalità di Machine Learning
+Il progetto prevede la scrittura notebook Jupyter/Python che richiami e integri 
+tra loro funzionalità di Machine Learning
 offerte da librerie software ampiamente utilizzate nel settore.
 
 
@@ -57,8 +59,7 @@ Saranno inoltre suggeriti altri testi sull'argomento liberamente disponibili in
 formato pdf sul web.
 
 Infine, sarà reso disponibile il materiale didattico preparato dal docente,
-comprendente copia dei lucidi utilizzati nel corso delle lezioni ed ulteriori
-note su argomenti specifici.
+comprendente copia dei lucidi utilizzati nel corso delle lezioni.
 
  
 
