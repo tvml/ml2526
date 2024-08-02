@@ -5,8 +5,8 @@ description: Corso di Machine Learning, CdLM in Informatica - Universita' di Rom
 aa: anno accademico 2024-2025
 show_downloads: true
 google_analytics:
-theme: just-the-docs-0.8.2
-#jekyll-theme-midnight
+theme: jekyll-theme-midnight
+#just-the-docs-0.8.2
 author: Giorgio Gambosi
 author_email: giorgio.gambosi@uniroma2.it
 baseurl: /ml2425
