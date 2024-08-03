@@ -7,13 +7,17 @@ layout: default
 
 ### Dove e quando
 
-Le lezioni del corso si svolgono:
+Le lezioni del corso si svolgono presso la macroarea di Scienze a partire da lunedì 7/10/2024:
 
 * il Lunedì dalle ore 14.00 alle 15.30 in aula 13
 
 * il Giovedì dalle ore 11.30 alle 13.00 in aula 5 PP2
 
 * il Venerdì dalle ore 11.30 alle 13.00 in aula 13
+
+#### Teams
+
+Il team Teams relativo al corso è accessibile a: (da definire)
 
 #### Ricevimento
 
@@ -59,7 +63,7 @@ Saranno inoltre suggeriti altri testi sull'argomento liberamente disponibili in
 formato pdf sul web.
 
 Infine, sarà reso disponibile il materiale didattico preparato dal docente,
-comprendente copia dei lucidi utilizzati nel corso delle lezioni.
+comprendente copia dei lucidi utilizzati nel corso delle lezioni presso la macroarea di Scienze.
 
  
 
