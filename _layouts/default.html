@@ -1,63 +1,23 @@
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include _head.html %}
+</head>
+<body id="top-of-page" class="{{ layout.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include _navigation.html %}
+	{% endunless %}
+	{% include _masthead.html %}
 
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/style.css" />
-    <!--link rel="stylesheet" href="{{site.baseurl}}/style.css" /-->
-    <script src="{{site.baseurl}}/assets/js/respond.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="{{site.description}}"/>
-    <meta name="author" content="{{site.author}}"/>
-    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{site.baseurl}}/feed.xml" />
-    <link rel="stylesheet" href="{{site.baseurl}}/resources/fontello/css/fontello.css">
-    <link rel="stylesheet" href="{{site.baseurl}}/resources/fontello/css/animation.css">
-    <!--link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"-->
-    
-    <link href="{{site.baseurl}}/assets/css/materialdesignicons.min.css" media="all" rel="stylesheet" type="text/css" />
+	{{ content }}
 
-  </head>
-  <body>
+	{% unless page.skip_boilerplate %}
+	{% include _footer.html %}
+	{% endunless %}
 
-
-    <div class="wrapper">
-
-      <section>
-        <div id="title">
-          <h1>{{ site.title}}</h1>
-          <p>{{ site.subtitle}}</p>
-          <hr>
-          <span class="credits left">Prof. Giorgio Gambosi</span>
-          <span class="credits right">{{ site.aa}}</span>
-        </div>
-        </section>
-
-          <nav>
-            <h2>Sezioni</h2>
-            <ul>
-                <li><i class="mdi mdi-home" style="font-size:18px; margin-right: 5px;"></i>   <a href="{{site.baseurl}}/">Home</a></li>
-                <li><i class="mdi mdi-information-variant" style="font-size:18px; margin-right: 5px;"></i>   <a href="{{site.baseurl}}/info">Informazioni</a></li>
-                <li><i class="mdi mdi-book" style="font-size:18px; margin-right: 5px;"></i>   	<a href="{{site.baseurl}}/programma">Programma</a></li>
-                <li><i class="mdi mdi-library-books" style="font-size:18px; margin-right: 9px;"></i><a href="{{site.baseurl}}/lucidi">Lucidi</a></li>
-                <li><i class="mdi mdi-sort" style="font-size:18px; margin-right: 5px;"></i>		<a href="{{site.baseurl}}/codici">Codice</a></li>
-            <li><i class="mdi mdi-table-large" style="font-size:18px; margin-right: 5px;"></i>	<a href="{{site.baseurl}}/dataset">Dataset</a></li>
-            <li><i class="mdi mdi-bulletin-board" style="font-size:18px; margin-right: 5px;"></i>	<a href="{{site.baseurl}}/comunicazioni">Comunicazioni</a></li>
-            <li><i class="mdi mdi-note-multiple" style="font-size:18px; margin-right: 5px;"></i>	<a href="{{site.baseurl}}/note">Note</a></li>
-            <li><i class="mdi mdi-calendar-text" style="font-size:18px; margin-right: 5px;"></i>	<a href="{{site.baseurl}}/lezioni">Lezioni</a></li>
-            <li><i class="mdi mdi-calendar-text" style="font-size:18px; margin-right: 5px;"></i>	<a href="{{site.baseurl}}/progetti">Progetti</a></li>
-            <li><i class="mdi mdi-book-open-variant" style="font-size:18px; margin-right: 5px;"></i>	<a href="{{site.baseurl}}/biblio">Bibliografia</a></li>
-            </ul>
-        </nav>
-        
-        
-        <main>
-            {{ content }}
-        </main>
-
-      
-
-    </div>
-    <script src="{{site.baseurl}}/script/scripts.js"></script>
-  </body>
+	{% include _footer_scripts.html %}
+</body>
 </html>
