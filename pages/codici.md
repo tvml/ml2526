@@ -8,3 +8,5 @@ header: no
 ---
 
 1. [`mnist`{:.codelink}]({{ site.baseurl }}{%link codici/mnist_pytorch.ipynb %}) Riconoscimento caratteri (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2425/blob/master/codici/mnist_pytorch.ipynb)
+
+1. [`Loss`{:.codelink}]({{ site.baseurl }}{%link codici/loss.ipynb %}) Funzione loss e GD (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2425/blob/master/codici/loss.ipynb)

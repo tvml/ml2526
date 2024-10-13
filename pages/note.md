@@ -12,3 +12,5 @@ header: no
 1. [`Note su SLT.`{:.filelink}]({{ site.baseurl }}{%link note/2-slt-notes.pdf %}) Note su Statistical Learning Theory
 
 1. [`Probability recall.`{:.filelink}]({{ site.baseurl }}{%link note/A-probability_recall-notes.pdf %}) Richiami di probabilità
+
+1. [`Loss and training.`{:.filelink}]({{ site.baseurl }}{%link note/2-training-notes.pdf %}) Funzioni loss e gradient descent
