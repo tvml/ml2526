@@ -65,4 +65,4 @@ Saranno inoltre suggeriti altri testi sull'argomento liberamente disponibili in
 formato pdf sul web.
 
 Infine, sarà reso disponibile il materiale didattico preparato dal docente,
-comprendente copia dei lucidi utilizzati nel corso delle lezioni presso la macroarea di Scienze.
+comprendente copia dei lucidi utilizzati nel corso delle lezioni.
