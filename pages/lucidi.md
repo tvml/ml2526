@@ -13,4 +13,4 @@ header: no
 
 1. [`Note su SLT.`{:.filelink}]({{ site.baseurl }}{%link slides/2-slt-slides.pdf %}) Note su Statistical Learning Theory
 
-1. [`Loss and training.`{:.filelink}]({{ site.baseurl }}{%link slides/2-training-slides.pdf %}) Funzioni loss e gradient descent
+1. [`Loss and training.`{:.filelink}]({{ site.baseurl }}{%link slides/3-training-slides.pdf %}) Funzioni loss e gradient descent
