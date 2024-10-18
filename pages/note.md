@@ -15,4 +15,4 @@ header: no
 
 1. [`Loss and training.`{:.filelink}]({{ site.baseurl }}{%link note/3-training-notes.pdf %}) Funzioni loss e gradient descent
 
-1. [`Probabilistic learning.`{:.filelink}]({{ site.baseurl }}{%link slides/4-probabilistic-learning-notes.pdf %}) Metodi probabilistici di apprendimento
+1. [`Probabilistic learning.`{:.filelink}]({{ site.baseurl }}{%link note/4-probabilistic-learning-notes.pdf %}) Metodi probabilistici di apprendimento
