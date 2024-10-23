@@ -16,3 +16,7 @@ header: no
 1. [`Loss and training.`{:.filelink}]({{ site.baseurl }}{%link note/3-training-notes.pdf %}) Funzioni loss e gradient descent
 
 1. [`Probabilistic learning.`{:.filelink}]({{ site.baseurl }}{%link note/4-probabilistic-learning-notes.pdf %}) Metodi probabilistici di apprendimento
+
+1. [`Linear regression.`{:.filelink}]({{ site.baseurl }}{%link note/5-linregr-notes.pdf %}) Regressione lineare
+
+1. [`Non parametric regression.`{:.filelink}]({{ site.baseurl }}{%link note/6-nonparam-regr-notes.pdf %}) Metodi non parametrici per la regressione
