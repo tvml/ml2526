@@ -30,3 +30,9 @@ header: no
 1. [`Classificazione non parametrica`{:.filelink}]({{ site.baseurl }}{%link note/10-nonparamclass-notes.pdf%}) Modelli non parametrici per la classificazione
 
 1. [`SVM`{:.filelink}]({{ site.baseurl }}{%link note/11-svm-notes.pdf%}) Support vector machines
+
+1. [`MLP`{:.filelink}]({{ site.baseurl }}{%link note/12-mlp-notes.pdf%}) Multilayer perceptron
+
+1. [`Decision trees`{:.filelink}]({{ site.baseurl }}{%link note/13-dectrees-notes.pdf%}) Alberi di decisione
+
+1. [`Ensemble`{:.filelink}]({{ site.baseurl }}{%link note/14-ensemble-notes.pdf%}) Ensemble: bagging e boosting
