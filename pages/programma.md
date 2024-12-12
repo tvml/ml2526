@@ -23,6 +23,15 @@ header: no
 	* Modelli non parametrici per la classificazione: knn e Parzen windows
 	* Support vector machines, funzioni kernel
 	* Multilayer perceptron
+	* Alberi di decisione
+	* Ensemble di predittori: bagging, random forest, boosting, ADAboost, gradient boosting
+* Unsupervised learning
+	* Clustering: k-means, misture di distribuzioni
+	* Riduzione di dimensionalità: PCA e LSA
+	* Modelli a variabili latenti: ELBO
+	* Algoritmo di expectation maximization: applicazione a misture
+	* Metodi probabilistici per la riduzione di dimensionalità: Factor analysis e probabilistic PCA
+	
 
 
 
