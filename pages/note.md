@@ -44,3 +44,5 @@ header: no
 1. [`Latent variable models`{:.filelink}]({{ site.baseurl }}{%link note/17-latent_variable-notes.pdf%}) Modelli a variabili latenti
 
 1. [`Expectation maximization`{:.filelink}]({{ site.baseurl }}{%link note/18-em-notes.pdf%}) Algoritmo EM
+
+1. [`Probabilistic dimensionality reduction`{:.filelink}]({{ site.baseurl }}{%link note/18-prob_dimred-notes.pdf%}) Metodi probabilistici per la riduzione di dimensionalità
