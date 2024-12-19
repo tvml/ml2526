@@ -36,3 +36,11 @@ header: no
 1. [`Decision trees`{:.filelink}]({{ site.baseurl }}{%link note/13-dectrees-notes.pdf%}) Alberi di decisione
 
 1. [`Ensemble`{:.filelink}]({{ site.baseurl }}{%link note/14-ensemble-notes.pdf%}) Ensemble: bagging e boosting
+
+1. [`Clustering`{:.filelink}]({{ site.baseurl }}{%link note/15-clustering-notes.pdf%}) Clustering
+
+1. [`Dimensionality reduction`{:.filelink}]({{ site.baseurl }}{%link note/16-dimred-notes.pdf%}) Riduzione di dimensionalità
+
+1. [`Latent variable models`{:.filelink}]({{ site.baseurl }}{%link note/17-latent_variable-notes.pdf%}) Modelli a variabili latenti
+
+1. [`Expectation maximization`{:.filelink}]({{ site.baseurl }}{%link note/18-em-notes.pdf%}) Algoritmo EM
