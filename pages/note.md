@@ -45,4 +45,4 @@ header: no
 
 1. [`Expectation maximization`{:.filelink}]({{ site.baseurl }}{%link note/18-em-notes.pdf%}) Algoritmo EM
 
-1. [`Probabilistic dimensionality reduction`{:.filelink}]({{ site.baseurl }}{%link note/18-prob_dimred-notes.pdf%}) Metodi probabilistici per la riduzione di dimensionalità
+1. [`Probabilistic dimensionality reduction`{:.filelink}]({{ site.baseurl }}{%link note/19-prob_dimred-notes.pdf%}) Metodi probabilistici per la riduzione di dimensionalità
