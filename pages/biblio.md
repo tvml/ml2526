@@ -38,6 +38,8 @@ Testi di Machine Learning liberamente disponibili su Internet
 
 * A. Jung. [Machine Learning: The Basics](https://alexjungaalto.github.io/MLBasicsBook.pdf)
 
+* Simon J.D. Prince. [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+
 ### Articoli e report di interesse
 
 * S. Ruder. [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)
