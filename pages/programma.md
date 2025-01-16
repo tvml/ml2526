@@ -31,6 +31,7 @@ header: no
 	* Modelli a variabili latenti: ELBO
 	* Algoritmo di expectation maximization: applicazione a misture
 	* Metodi probabilistici per la riduzione di dimensionalità: Factor analysis e probabilistic PCA
+	* Metodi variazionali per modelli a variabili latenti
 	
 
 
