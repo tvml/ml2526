@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 29 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 30 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2425/404.html</loc>
+	<loc>http://localhost:4000/ml2526/404.html</loc>
 	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2425/blog/archive/</loc>
+	<loc>http://localhost:4000/ml2526/blog/archive/</loc>
 	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2425/atom.xml</loc>
-	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,9 +37,26 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2425/biblio/</loc>
+	<loc>http://localhost:4000/ml2526/atom.xml</loc>
 	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml2526/biblio/</loc>
+	
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,24 +69,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2425/codici/</loc>
+	<loc>http://localhost:4000/ml2526/codici/</loc>
 	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2425/comunicazioni/</loc>
-	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,24 +84,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2425/contact/</loc>
+	<loc>http://localhost:4000/ml2526/comunicazioni/</loc>
 	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2425/dataset/</loc>
-	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -129,24 +99,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2425/feed.xml</loc>
+	<loc>http://localhost:4000/ml2526/contact/</loc>
 	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2425/humans.txt</loc>
-	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -159,24 +114,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2425/blog/</loc>
+	<loc>http://localhost:4000/ml2526/dataset/</loc>
 	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2425/</loc>
-	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -189,24 +129,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2425/info/</loc>
+	<loc>http://localhost:4000/ml2526/feed.xml</loc>
 	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2425/lezioni/</loc>
-	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -219,24 +144,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2425/lucidi/</loc>
+	<loc>http://localhost:4000/ml2526/humans.txt</loc>
 	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2425/note/</loc>
-	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -249,24 +159,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2425/progetti/</loc>
+	<loc>http://localhost:4000/ml2526/blog/</loc>
 	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2425/programma/</loc>
-	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -279,43 +174,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2425/redirect-page/</loc>
+	<loc>http://localhost:4000/ml2526/</loc>
 	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2425/robots.txt</loc>
-	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2425/search/</loc>
-	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -328,24 +189,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2425/sitemap.xml</loc>
+	<loc>http://localhost:4000/ml2526/info/</loc>
 	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml2425/store/</loc>
-	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -358,9 +204,178 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/ml2425/style.css</loc>
+	<loc>http://localhost:4000/ml2526/lezioni/</loc>
 	
-		<lastmod>2024-10-08T17:46:26+02:00</lastmod>
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml2526/codici/loss.qmd</loc>
+	
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml2526/lucidi/</loc>
+	
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml2526/note/</loc>
+	
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml2526/progetti/</loc>
+	
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml2526/programma/</loc>
+	
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml2526/redirect-page/</loc>
+	
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml2526/robots.txt</loc>
+	
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml2526/search/</loc>
+	
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml2526/sitemap.xml</loc>
+	
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml2526/store/</loc>
+	
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml2526/style.css</loc>
+	
+		<lastmod>2025-09-08T12:52:31+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

@@ -8,6 +8,8 @@ header: no
 ---
 
 1. [`Titanic.`{:.datalink}]({{ site.baseurl }}{%link dataset/titanic.csv %}) Dataset Titanic.
+
+<!--
 1. [`Housingdata.`{:.datalink}]({{ site.baseurl }}{%link dataset/housing.data.txt %}) Dataset abitazioni Boston.
 1. [`Ex2data1.`{:.datalink}]({{ site.baseurl }}{%link dataset/ex2data1.txt %}) Dataset per classificazione binaria.
 1. [`Ex2data2.`{:.datalink}]({{ site.baseurl }}{%link dataset/ex2data2.txt %}) Dataset per classificazione binaria.
@@ -20,5 +22,5 @@ header: no
 1. [`Newsgroups.`{:.datalink}]({{ site.baseurl }}{%link dataset/20news_w100.mat %}) Occorrenze di termini in documenti da newsgroups.
 1. [`3classi train.`{:.datalink}]({{ site.baseurl }}{%link dataset/knnClassify3c.csv %}) Training set a 3 classi.
 1. [`3classi test.`{:.datalink}]({{ site.baseurl }}{%link dataset/knnClassify3c-test.csv %}) Test set a 3 classi.
-
+-->
 

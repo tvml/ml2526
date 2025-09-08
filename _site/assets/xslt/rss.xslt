@@ -9,8 +9,8 @@
 			<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>RSS Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="http://localhost:4000/ml2425/assets/css/styles_feeling_responsive.css" />
-	<script src="http://localhost:4000/ml2425/assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/ml2526/assets/css/styles_feeling_responsive.css" />
+	<script src="http://localhost:4000/ml2526/assets/js/modernizr.min.js"></script>
 
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
   <script>
@@ -111,7 +111,7 @@
 	
 	<meta property="og:title" content="RSS Feed (Styled)" />
 	<meta property="og:description" content="Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata." />
-	<meta property="og:url" content="http://localhost:4000/ml2425//assets/xslt/rss.xslt" />
+	<meta property="og:url" content="http://localhost:4000/ml2526//assets/xslt/rss.xslt" />
 	<meta property="og:site_name" content="Machine learning" />
 	
 
@@ -120,7 +120,7 @@
 	<!-- Search Engine Optimization -->
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/ml2425/humans.txt" />
+	<link type="text/plain" rel="author" href="http://localhost:4000/ml2526/humans.txt" />
 
 	
 
@@ -135,7 +135,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/ml2425" class="icon-tree"> Machine learning</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/ml2526" class="icon-tree"> Machine learning</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -229,7 +229,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2425/">Start</a></li>
+              <li><a href="http://localhost:4000/ml2526/">Start</a></li>
               <li class="divider"></li>
 
             
@@ -244,7 +244,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2425/info/">Informazioni</a></li>
+              <li><a href="http://localhost:4000/ml2526/info/">Informazioni</a></li>
               <li class="divider"></li>
 
             
@@ -259,7 +259,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2425/programma/">programma</a></li>
+              <li><a href="http://localhost:4000/ml2526/programma/">programma</a></li>
               <li class="divider"></li>
 
             
@@ -274,7 +274,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2425/lucidi/">lucidi</a></li>
+              <li><a href="http://localhost:4000/ml2526/lucidi/">lucidi</a></li>
               <li class="divider"></li>
 
             
@@ -289,7 +289,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2425/note/">note</a></li>
+              <li><a href="http://localhost:4000/ml2526/note/">note</a></li>
               <li class="divider"></li>
 
             
@@ -304,7 +304,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2425/codici/">codici</a></li>
+              <li><a href="http://localhost:4000/ml2526/codici/">codici</a></li>
               <li class="divider"></li>
 
             
@@ -319,7 +319,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2425/dataset/">dataset</a></li>
+              <li><a href="http://localhost:4000/ml2526/dataset/">dataset</a></li>
               <li class="divider"></li>
 
             
@@ -334,7 +334,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2425/comunicazioni/">Comunicazioni</a></li>
+              <li><a href="http://localhost:4000/ml2526/comunicazioni/">Comunicazioni</a></li>
               <li class="divider"></li>
 
             
@@ -349,7 +349,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2425/lezioni/">Lezioni</a></li>
+              <li><a href="http://localhost:4000/ml2526/lezioni/">Lezioni</a></li>
               <li class="divider"></li>
 
             
@@ -364,7 +364,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2425/progetti/">Progetti</a></li>
+              <li><a href="http://localhost:4000/ml2526/progetti/">Progetti</a></li>
               <li class="divider"></li>
 
             
@@ -379,7 +379,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2425/store/">Store</a></li>
+              <li><a href="http://localhost:4000/ml2526/store/">Store</a></li>
               <li class="divider"></li>
 
             
@@ -394,7 +394,7 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2425/biblio/">Bibliografia</a></li>
+              <li><a href="http://localhost:4000/ml2526/biblio/">Bibliografia</a></li>
               <li class="divider"></li>
 
             
@@ -414,7 +414,7 @@
 			<div class="small-12 columns">
 				<a id="logo" href="http://localhost:4000" title="Machine learning – Università di Roma Tor Vergata">
 				<p style="text-align:center;">
-					<img src="http://localhost:4000/ml2425/assets/img/" alt="Machine learning – Università di Roma Tor Vergata">
+					<img src="http://localhost:4000/ml2526/assets/img/" alt="Machine learning – Università di Roma Tor Vergata">
 				</p>
 				</a>
 			</div><!-- /.small-12.columns -->
@@ -499,6 +499,8 @@
               
             
               
+            
+              
               <ul class="no-bullet shadow-black">
               
                 
@@ -509,6 +511,11 @@
                 
                   <li >
                     <font color="#ECCC87">giorgio.gambosi@uniroma2.it</font>
+                  </li>
+              
+                
+                  <li >
+                    <font color="#ECCC87">croce@info.uniroma2.it</font>
                   </li>
               
               </ul>
@@ -536,7 +543,7 @@
             
               
                 <li >
-                  <a href="/ml2425"  title=""></a>
+                  <a href="/ml2526"  title=""></a>
                 </li>
             
               
@@ -627,6 +634,8 @@
             
               <li><a href="mailto:giorgio.gambosi@uniroma2.it?&subject=Corso%20Machine%20learning" target="_blank" class="icon-mail" title=""></a></li>
             
+              <li><a href="mailto:croce@info.uniroma2.it?&subject=Corso%20Machine%20learning" target="_blank" class="icon-mail" title=""></a></li>
+            
             </ul>
           </section>
         </nav>
@@ -636,7 +645,7 @@
 		
 
 
-<script src="http://localhost:4000/ml2425/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/ml2526/assets/js/javascript.min.js"></script>
 
 
 

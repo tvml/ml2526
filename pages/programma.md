@@ -6,7 +6,7 @@ teaser: ""
 permalink: /programma/
 header: no
 ---
-## Programma 
+## Programma (tentativo)
 
 * Concetti fondamentali e tipi di apprendimento
 * Introduzione alla teoria dell'apprendimento statistico
@@ -28,10 +28,8 @@ header: no
 * Unsupervised learning
 	* Clustering: k-means, misture di distribuzioni
 	* Riduzione di dimensionalità: PCA e LSA
-	* Modelli a variabili latenti: ELBO
-	* Algoritmo di expectation maximization: applicazione a misture
-	* Metodi probabilistici per la riduzione di dimensionalità: Factor analysis e probabilistic PCA
-	* Metodi variazionali per modelli a variabili latenti
+	* Modelli a variabili latenti
+* Introduzione al deep learning
 	
 
 

@@ -19,9 +19,11 @@ offerte dalle librerie software adottate, il programma sarà scritto come notebo
 
 La dimensione standard dei gruppi è pari a due. In casi particolari è possibile prevedere, se motivata, la possibilità di dimensioni diverse da quanto specificato.
 
-Oltre ai possibili progetti elencati di seguito, ulteriori progetti potranno essere proposti da parte di studenti interessati a tematiche qui non considerate 
+Gli studenti possono proporre, per l'approvazione, progetti su temi di loro interesse. Inoltre, alcuni progetti saranno proposti  dai docenti.
 
+<!--
 ### Progetti proposti
+
 
 - 1 House prices advanced regression [Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
@@ -34,4 +36,4 @@ Oltre ai possibili progetti elencati di seguito, ulteriori progetti potranno ess
 - 5 Tappy Keystroke Data with Parkinson's Patients [Link](https://www.kaggle.com/valkling/tappy-keystroke-data-with-parkinsons-patients)
 
 - 6 Skin cancer [Link](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)
-
+-->

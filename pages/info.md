@@ -11,16 +11,19 @@ header: no
 
 Le lezioni del corso si svolgono presso la macroarea di Scienze a partire da lunedì 7/10/2024:
 
-* il Lunedì dalle ore 14.00 alle 15.30 in aula 19
+* il Lunedì dalle ore 14.00 alle 15.45 in aula 22
 
-* il Giovedì dalle ore 11.30 alle 13.00 in aula 5 PP2
+* il Giovedì dalle ore 11.30 alle 13.15 in aula 5 PP2
 
-* il Venerdì dalle ore 11.30 alle 13.00 in aula 13
+* il Venerdì dalle ore 11 alle 12.45 in aula 13
 
 #### Teams
 
-Il team Teams relativo al corso è accessibile [qui](https://teams.microsoft.com/l/team/19%3A5FYyoJIVmELhfxetFz-mH2ZrSCOa0sI6o8z0UrEj9Io1%40thread.tacv2/conversations?groupId=e362f212-9eb6-4e7b-9af3-902135c2c1cc&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e)
+L'indirizzo del canale Teams relativo al corso sarà comunicato quanto prima
 
+<!--
+è accessibile [qui](https://teams.microsoft.com/l/team/19%3A5FYyoJIVmELhfxetFz-mH2ZrSCOa0sI6o8z0UrEj9Io1%40thread.tacv2/conversations?groupId=e362f212-9eb6-4e7b-9af3-902135c2c1cc&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e)
+-->
 #### Ricevimento
 
 Il ricevimento studenti avviene secondo due modalità:
@@ -64,5 +67,5 @@ Il testo di riferimento è il seguente:
 Saranno inoltre suggeriti altri testi sull'argomento liberamente disponibili in
 formato pdf sul web.
 
-Infine, sarà reso disponibile il materiale didattico preparato dal docente,
+Infine, sarà reso disponibile il materiale didattico preparato dai docenti,
 comprendente copia dei lucidi utilizzati nel corso delle lezioni.

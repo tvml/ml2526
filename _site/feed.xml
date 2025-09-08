@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/ml2425/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="/ml2425/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="/ml2526/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/ml2526/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Machine learning</title>
 		<description>Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.</description>
-		<link>http://localhost:4000/ml2425/</link>
-		<atom:link href="http://localhost:4000/ml2425/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000/ml2526/</link>
+		<atom:link href="http://localhost:4000/ml2526/feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>

@@ -7,6 +7,7 @@ permalink: /note/
 header: no
 ---
 
+<!--
 1. [`Concetti fondamentali.`{:.filelink}]({{ site.baseurl }}{%link note/1-foundations-notes.pdf %}) Concetti fondamentali del ML
 
 1. [`Note su SLT.`{:.filelink}]({{ site.baseurl }}{%link note/2-slt-notes.pdf %}) Note su Statistical Learning Theory
@@ -48,3 +49,5 @@ header: no
 1. [`Probabilistic dimensionality reduction`{:.filelink}]({{ site.baseurl }}{%link note/19-prob_dimred-notes.pdf%}) Metodi probabilistici per la riduzione di dimensionalità
 
 1. [`Variational methods`{:.filelink}]({{ site.baseurl }}{%link note/20-variational-notes.pdf%}) Approcci variazionale ai modelli a variabili latenti  
+
+-->
