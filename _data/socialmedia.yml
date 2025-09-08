@@ -3,6 +3,12 @@
   class: icon-mail
   title: ""
   
+- name: Mail
+  url: "mailto:croce@info.uniroma2.it?&subject=Corso%20Machine%20learning"
+  class: icon-mail
+  title: ""
+  
+  
 #- name: Twitter
 #  url: https://twitter.com/tvmlclass
 #  class: icon-twitter
