@@ -9,7 +9,7 @@ header: no
 
 ### Dove e quando
 
-Le lezioni del corso si svolgono presso la macroarea di Scienze a partire da lunedì 7/10/2024:
+Le lezioni del corso si svolgono presso la macroarea di Scienze a partire da lunedì 6/10/2024:
 
 * il Lunedì dalle ore 14.00 alle 15.45 in aula 22
 
@@ -19,11 +19,10 @@ Le lezioni del corso si svolgono presso la macroarea di Scienze a partire da lun
 
 #### Teams
 
-L'indirizzo del canale Teams relativo al corso sarà comunicato quanto prima
+Il canale Teams relativo al corso 
+è accessibile [qui](https://teams.microsoft.com/l/team/19%3ApaFr3k8ql3c6aNWMw4rGF59eabR1ok1Z6n8MDnprL5Y1%40thread.tacv2/conversations?groupId=2a678402-dcc8-4c90-890d-6f834bef20bc&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e)
 
-<!--
-è accessibile [qui](https://teams.microsoft.com/l/team/19%3A5FYyoJIVmELhfxetFz-mH2ZrSCOa0sI6o8z0UrEj9Io1%40thread.tacv2/conversations?groupId=e362f212-9eb6-4e7b-9af3-902135c2c1cc&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e)
--->
+
 #### Ricevimento
 
 Il ricevimento studenti avviene secondo due modalità:
