@@ -9,7 +9,7 @@ header: no
 
 ### Dove e quando
 
-Le lezioni del corso si svolgono presso la macroarea di Scienze a partire da lunedì 6/10/2024:
+Le lezioni del corso si svolgono presso la macroarea di Scienze a partire da lunedì 6/10/2025:
 
 * il Lunedì dalle ore 14.00 alle 15.45 in aula 22
 
