@@ -7,6 +7,7 @@ permalink: /note/
 header: no
 ---
 
+1. [`Intro.`{:.filelink}]({{ site.baseurl }}{%link note/ML_course_intro.pdf %}) Introduzione al corso
 
 1. [`Concetti fondamentali.`{:.filelink}]({{ site.baseurl }}{%link note/1-foundations-notes.pdf %}) Concetti fondamentali del ML
 
