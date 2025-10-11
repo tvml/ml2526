@@ -8,5 +8,14 @@
 		<link>http://localhost:4000/ml2526/</link>
 		<atom:link href="http://localhost:4000/ml2526/feed.xml" rel="self" type="application/rss+xml" />
 		
+			<item>
+				<title>Lezione 1</title>
+				<link>http://localhost:4000/ml2526/lezioni/lezione/</link>
+				<pubDate>Mon, 06 Oct 2025 00:00:00 +0200</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml2526/lezioni/lezione/</guid>
+			</item>
+		
 	</channel>
 </rss>
