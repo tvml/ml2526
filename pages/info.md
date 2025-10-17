@@ -13,9 +13,9 @@ Le lezioni del corso si svolgono presso la macroarea di Scienze a partire da lun
 
 * il Lunedì dalle ore 14.00 alle 15.45 in aula 22
 
-* il Giovedì dalle ore 11.30 alle 13.15 in aula 5 PP2
+* il Giovedì dalle ore 11.30 alle 13.15 in aula 22
 
-* il Venerdì dalle ore 11 alle 12.45 in aula 13
+* il Venerdì dalle ore 11 alle 12.45 in aula 22
 
 #### Teams
 
