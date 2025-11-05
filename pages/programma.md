@@ -9,7 +9,6 @@ header: no
 ## Programma (tentativo)
 
 * Concetti fondamentali e tipi di apprendimento
-* Introduzione alla teoria dell'apprendimento statistico
 * Richiami di probabilità, statistica bayesiana e apprendimento bayesiano 
 * Supervised learning <!--`30 ore`-->
 	* Loss functions e minimizzazione del rischio
